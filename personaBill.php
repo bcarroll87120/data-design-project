@@ -43,7 +43,8 @@
 		<h2>User Story:</h2>
 			<p>Bill would like to click on and read news articles. He occasionally clicks on
 			journalist profiles to read other material by them. He also occasionally shares
-			articles on social media platforms like Facebook or Twitter.</p>
+			articles on social media platforms like Facebook or Twitter. He will be making an
+			annual $30 donation to the website.</p>
 		<h2><a href="use-case.php">Use Case</a></h2>
 		<h2><a href="conceptual-model.php">Conceptual Model</a></h2>
 	</body>
