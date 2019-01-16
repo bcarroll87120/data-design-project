@@ -21,8 +21,8 @@
 						<li>Google Chrome</li>
 					</ul>
 				</li>
-				<li><strong>Personality: </strong>Business-like and professional; generally reserved. All work and no play.</li>
-				<li>Goals for using website:</li>
+				<li><strong>Personality: </strong>Business-like and professional; generally reserved. All work and no play. Married with two young children.</li>
+				<li><strong>Goals for using website:</strong></li>
 						<li>Click on and read news articles</li>
 						<li>To share such articles</li>
 						<li>To click on specific topics of interests</li>
@@ -35,4 +35,5 @@
 		articles on social media platforms like Facebook or Twitter.</p>
 	</body>
 	<h2><a href="use-case.php">Use Case</a></h2>
+	<h2><a href="conceptual-model.php">Conceptual Model</a></h2>
 </html>
