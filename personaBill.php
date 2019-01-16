@@ -23,12 +23,15 @@
 				</li>
 				<li><strong>Personality: </strong>Business-like and professional; generally reserved. All work and no play. Married with two young children.</li>
 				<li><strong>Goals for using website:</strong></li>
+					<ul>
 						<li>Click on and read news articles</li>
 						<li>To share such articles</li>
 						<li>To click on specific topics of interests</li>
 						<li>To contribute a small monetary donation annualy</li>
+					</ul>
 				<li><strong>User Frustrations: </strong></li>
-			</ul>
+					</ul>
+						<li>Pop-up ads</li>
 		<h3>User Story:</h3>
 		<p>Bill would like to click on and read news articles. He occasionally clicks on
 		journalist profiles to read other material by them. He also occasionally shares
