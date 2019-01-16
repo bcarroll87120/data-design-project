@@ -15,10 +15,10 @@
 				<li><strong>Ethnicity: </strong>Caucasian</li>
 				<li><strong>Occupation: </strong>Systems Analyst</li>
 				<li><strong>Technology: </strong>
-				<ul>
-					Acer laptop (Windows 10)
-					iPhone 7
-				</ul></li>
+					<ul>Acer laptop (Windows 10)</ul>
+					<ul>iPhone 7</ul>
+					<ul>Google Chrome</ul>
+				</li>
 				<li><strong>Personality: </strong>business-like and professional. All work and no play.</li>
 				<li><strong>User Frustrations: </strong></li>
 				<li></li>
@@ -28,4 +28,5 @@
 		journalist profiles to read other material by them. He also occasionally shares
 		articles on social media platforms like Facebook or Twitter.</p>
 	</body>
+	<h2><a href="use-case.php">Use Case</h2>
 </html>
