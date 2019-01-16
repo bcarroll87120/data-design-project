@@ -14,8 +14,12 @@
 				<li><strong>Gender: </strong>Male</li>
 				<li><strong>Ethnicity: </strong>Caucasian</li>
 				<li><strong>Occupation: </strong>Systems Analyst</li>
-				<li><strong>Technology: </strong>Acer laptop (Windows 10), iPhone 7</li>
-				<li><strong>Personality: </strong>business-like and professional. All work and no party.</li>
+				<li><strong>Technology: </strong>
+				<ul>
+					Acer laptop (Windows 10)
+					iPhone 7
+				</ul></li>
+				<li><strong>Personality: </strong>business-like and professional. All work and no play.</li>
 				<li><strong>User Frustrations: </strong></li>
 				<li></li>
 			</ul>
