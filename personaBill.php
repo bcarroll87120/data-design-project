@@ -26,8 +26,8 @@
 						<li>Business-like and professional</li>
 						<li>Married with two young children</li>
 						<li>Generally reserved; introverted. All work and no play</li>
-						<li><strong>Goals for using website:</strong></li>
 					</ul>
+				<li><strong>Goals for using website:</strong></li>
 					<ul>
 						<li>Click on and read news articles</li>
 						<li>To share such articles</li>
