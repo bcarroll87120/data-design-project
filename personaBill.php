@@ -15,18 +15,24 @@
 				<li><strong>Ethnicity: </strong>Caucasian</li>
 				<li><strong>Occupation: </strong>Systems Analyst</li>
 				<li><strong>Technology: </strong>
-					<ul>Acer laptop (Windows 10)</ul>
-					<ul>iPhone 7</ul>
-					<ul>Google Chrome</ul>
+					<ul>
+						<li>Acer laptop (Windows 10)</li>
+						<li>iPhone 7</li>
+						<li>Google Chrome</li>
+					</ul>
 				</li>
-				<li><strong>Personality: </strong>business-like and professional. All work and no play.</li>
+				<li><strong>Personality: </strong>Business-like and professional; generally reserved. All work and no play.</li>
+				<li>Goals for using website:</li>
+						<li>Click on and read news articles</li>
+						<li>To share such articles</li>
+						<li>To click on specific topics of interests</li>
+						<li>To contribute a small monetary donation annualy</li>
 				<li><strong>User Frustrations: </strong></li>
-				<li></li>
 			</ul>
 		<h3>User Story:</h3>
 		<p>Bill would like to click on and read news articles. He occasionally clicks on
 		journalist profiles to read other material by them. He also occasionally shares
 		articles on social media platforms like Facebook or Twitter.</p>
 	</body>
-	<h2><a href="use-case.php">Use Case</h2>
+	<h2><a href="use-case.php">Use Case</a></h2>
 </html>
