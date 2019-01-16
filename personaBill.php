@@ -9,14 +9,14 @@
 		<h3>User Persona</h3>
 		<img src="persona-bill-baker.jpg" alt="Bill">
 			<ul>
-				<li><strong>Name:</strong> Bill Baker</li>
-				<li><strong>Age: </strong></li>
-				<li><strong>Gender: </strong></li>
-				<li><strong>Ethnicity</strong></li>
-				<li><strong>Occupation: Systems analyst</strong></li>
-				<li>Technology: Acer laptop, iPhone 7, Windows 10</li>
-				<li>Attitude: business-like and professional. All work and no party.</li>
-				<li></li>
+				<li><strong>Name: </strong>Bill Baker</li>
+				<li><strong>Age Range: </strong>late thirties</li>
+				<li><strong>Gender: </strong>Male</li>
+				<li><strong>Ethnicity: </strong>Caucasian</li>
+				<li><strong>Occupation: </strong>Systems Analyst</li>
+				<li><strong>Technology: </strong>Acer laptop (Windows 10), iPhone 7</li>
+				<li><strong>Personality: </strong>business-like and professional. All work and no party.</li>
+				<li><strong>User Frustrations: </strong></li>
 				<li></li>
 			</ul>
 		<h3>User Story:</h3>
