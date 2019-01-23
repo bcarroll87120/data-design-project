@@ -24,7 +24,7 @@
 				<li><strong>Personality: </strong>
 					<ul>
 						<li>Business-like and professional</li>
-						<li>Married with two young children</li>
+						<li>Has a moderate interest in current events</li>
 						<li>Generally reserved; introverted. All work and no play</li>
 					</ul>
 				<li><strong>Goals for using website:</strong></li>
@@ -41,10 +41,7 @@
 						<li>The slow decline of humanity</li>
 					</ul>
 		<h2>User Story:</h2>
-			<p>Bill would like to click on and read news articles. He occasionally clicks on
-			journalist profiles to read other material by them. He also occasionally shares
-			articles on social media platforms like Facebook or Twitter. He will be making an
-			annual $30 donation to the website.</p>
+				<p>Bill would like to log into his account to read articles and make comments.</p>
 		<h2><a href="use-case.php">Use Case</a></h2>
 		<h2><a href="conceptual-model.php">Conceptual Model</a></h2>
 	</body>
